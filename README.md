@@ -53,6 +53,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=2+-+Ask" alt="Typing SVG" />
 </a>
 
+<p style="text-align: justify;">
+  This phase involves <strong>defining the issue to be solved</strong>, identifying stakeholders, and understanding their expectations for the project. 
+  The goal is to analyze how Cyclistic users behave and provide insights that will help shape marketing strategies aimed at increasing membership conversions.
+</p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=2.1+-+Guiding+Questions" alt="Typing SVG" />
+</a>
+
+<p style="text-align: justify;">
+  Three key questions will guide the analysis:
+</p>
+
+<ul style="text-align: justify;">
+  <li><strong>How do annual members and casual riders use Cyclistic bikes differently?</strong></li>
+  <li><strong>Why would casual riders buy Cyclistic annual memberships?</strong></li>
+  <li><strong>How can Cyclistic use digital media to influence casual riders to become members?</strong></li>
+</ul>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=2.2+-+Stakeholders" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li><strong>Lily Moreno</strong>: Director of Marketing, responsible for developing campaigns and initiatives to promote the bike-share program.</li>
+  <li><strong>Marketing Analytics Team</strong>: Collects, analyzes, and reports data to guide Cyclistic’s marketing strategies.</li>
+  <li><strong>Executive Team</strong>: Evaluates and approves recommendations based on data-driven insights.</li>
+</ul>
+
 <h2 align="left">
 </h2>
 
