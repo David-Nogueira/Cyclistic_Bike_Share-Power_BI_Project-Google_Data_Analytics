@@ -89,6 +89,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=3+-+Prepare" alt="Typing SVG" />
 </a>
 
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=3.1+-+Data+Source+and+Privacy" alt="Typing SVG" />
+</a>
+
+<p style="text-align: justify;">
+  The data was provided by <strong>Motivate International Inc.</strong> and can be accessed <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">here</a> under this <a href="https://ride.divvybikes.com/data-license-agreement">license</a>. 
+  Riders' personal information has been removed to ensure privacy.
+</p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=3.2+-+Data+Organization+and+Limitations" alt="Typing SVG" />
+</a>
+
+<p style="text-align: justify;">
+  The dataset includes records from <strong>January to December 2024</strong>, containing thousands of monthly trip details. 
+  During data processing, missing values were identified and handled accordingly.
+</p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=3.3+-+Tools+Used" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li><strong>Data Processing & Cleaning:</strong> Power BI</li>
+  <li><strong>Visualization:</strong> Power BI</li>
+</ul>
+
 <h2 align="left">
 </h2>
 
