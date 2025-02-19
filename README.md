@@ -125,6 +125,64 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=4+-+Process" alt="Typing SVG" />
 </a>
 
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=4.1+-+Data+Import+and+Combination" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>The <strong>CSV files</strong> containing the <strong>monthly trip data for 2024</strong> were imported into Power BI.</li>
+  <li>The <strong>end_station_id</strong> column was incorrectly recognized as a <strong>number</strong> instead of <strong>text</strong>, requiring adjustments.</li>
+  <li>Tables were renamed for readability, such as <strong>2024_01_January, 2024_02_February</strong>, etc.</li>
+  <li>All <strong>12 tables</strong> were merged into a single dataset: <strong>2024_All_Months_No_Clean</strong>, totaling <strong>5,860,538 rows</strong>.</li>
+</ul>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=4.2+-+Null+Values+and+Duplicates+Analysis" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>A <strong>summary table</strong> was created to identify missing and blank values.</li>
+  <li>Columns with excessive missing data were removed:</li>
+  <ul>
+    <li><strong>start_station_name, start_station_id, end_station_name, end_station_id, end_lat, end_lng</strong></li>
+  </ul>
+  <li>This resulted in a refined dataset: <strong>2024_All_Months_First_Clean</strong>.</li>
+</ul>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=4.3+-+Creation+of+New+Columns" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>Several new columns were created to enhance the dataset:</li>
+  <ul>
+    <li><strong>Duration (Minutes)</strong>: Difference between <em>ended_at</em> and <em>started_at</em>.</li>
+    <li><strong>Duration (Minutes:Seconds)</strong>: Conversion of duration into minutes and seconds.</li>
+    <li><strong>Day of Week (Number)</strong>: Numeric representation of the day.</li>
+    <li><strong>Day of Week (Name)</strong>: Name of the weekday.</li>
+    <li><strong>Month (Number)</strong>: Numeric representation of the month.</li>
+    <li><strong>Month (Name)</strong>: Name of the month.</li>
+  </ul>
+  <li>This led to a new dataset: <strong>2024_All_Months_First_Calculations</strong>.</li>
+</ul>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=4.4+-+Outlier+Identification+and+Treatment" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>A <strong>Maximum_Minimum_Duration</strong> table was created to detect extreme values.</li>
+  <li>Some trips had <strong>negative durations</strong> or lasted <strong>over 24 hours</strong>, indicating errors.</li>
+  <li>The dataset was filtered to retain only trips lasting <strong>between 1 minute and 24 hours</strong>, resulting in the final dataset: <strong>2024_All_Months_Final</strong>.</li>
+  <li>The final dataset contains <strong>5,721,442 rows</strong>.</li>
+</ul>
+
+<p style="text-align: justify;">
+At this stage, the data is <strong>cleaned, structured, and ready</strong> for further analysis and visualization in Power BI.
+</p>
+
 <h2 align="left">
 </h2>
 
