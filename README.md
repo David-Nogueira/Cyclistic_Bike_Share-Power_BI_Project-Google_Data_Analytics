@@ -190,6 +190,85 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5+-+Analize" alt="Typing SVG" />
 </a>
 
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5.1+-+Page+1:+Summary+of+Trips+and+User+Types" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li><strong>Objective:</strong> Analyze the behavior of casual passengers and annual members, and understand their vehicle preferences.</li>
+</ul>
+
+<ul style="text-align: justify;">
+  <li><strong>Data:</strong><br></li>
+  <ul>
+  <li>Total Trips: 5,721,442 trips with a duration between 1 minute and 24 hours.<br></li>
+  <li>Long Trips (4h-24h): 8,637 trips, which are rare events.<br></li>
+  <li>After this observation, a filter was applied to consider only trips with a duration of 1 minute to 4 hours.<br></li>
+  <li>Average Trip Duration: 14.88 minutes.</li>
+  </ul>
+</ul>
+
+<p style="text-align: justify;">
+  <strong>Key Insights:</strong><br>
+  <strong>Membership Type:</strong><br>
+  64% of users are annual members.<br>
+  Members take shorter trips, with an average duration of 11.99 minutes (1 min to 4 hours).<br>
+  Casuals have a longer average duration: 19.93 minutes.<br>
+  <strong>Vehicle Type:</strong><br>
+  50.2% of trips are made using electric bikes.<br>
+  Classic bikes have the highest average trip duration, with 17.37 minutes.
+</p>
+
+<h2 align="left">Page 2: Analysis of Trip Numbers</h2>
+
+<p style="text-align: justify;">
+  <strong>Objective:</strong> Identify patterns in the number of trips throughout the week and year, segmented by user type.
+</p>
+
+<p style="text-align: justify;">
+  <strong>Data:</strong><br>
+  Total Trips: 5,712,804 trips with a duration between 1 minute and 4 hours.
+</p>
+
+<p style="text-align: justify;">
+  <strong>Insights:</strong><br>
+  <strong>Weekly Distribution:</strong><br>
+  Members make more trips than casuals every day of the week.<br>
+  Saturday is the day with the highest number of trips for casuals.<br>
+  Wednesday is the day with the highest number of trips for members.<br>
+  In total, Saturday is the day with the highest number of trips (897,053 trips), while Tuesday has the lowest (764,251 trips).<br>
+  <strong>Monthly Distribution:</strong><br>
+  The number of trips increases from January to September, reaching a peak in September (798,901 trips in total).<br>
+  After September, there is a significant drop in trips, with the lowest number recorded in January (139,884 trips).
+</p>
+
+<h2 align="left">Page 3: Analysis of Average Trip Duration</h2>
+
+<p style="text-align: justify;">
+  <strong>Objective:</strong> Analyze the average trip duration by day of the week and month, segmented by user type.
+</p>
+
+<p style="text-align: justify;">
+  <strong>Data:</strong><br>
+  Average Trip Duration: 14.88 minutes (considering trips from 1 minute to 4 hours).
+</p>
+
+<p style="text-align: justify;">
+  <strong>Insights:</strong><br>
+  <strong>Weekly Distribution:</strong><br>
+  Casuals take longer trips, with peaks on the weekend.<br>
+  Members have more stable trip durations, with a slight increase on weekends.<br>
+  Highest average duration: Sunday (17.86 minutes).<br>
+  Lowest average duration: Tuesday (13.06 minutes).<br>
+  <strong>Monthly Distribution:</strong><br>
+  Casuals show strong variation, with trip duration peaking in May. From April to August, they travel with an average of over 20 minutes.<br>
+  Members maintain a stable duration between 10 and 13 minutes.<br>
+  Month with highest average duration: July.<br>
+  Month with lowest average duration: January.
+</p>
+
 <h2 align="left">
 </h2>
 
