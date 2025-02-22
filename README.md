@@ -193,7 +193,7 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5.1+-+Page+1:+Summary+of+Trips+and+User+Types" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5.1+-+Summary+of+Trips+and+User+Types" alt="Typing SVG" />
 </a>
 
 <ul style="text-align: justify;">
@@ -210,41 +210,59 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   </ul>
 </ul>
 
-<p style="text-align: justify;">
-  <strong>Key Insights:</strong><br>
-  <strong>Membership Type:</strong><br>
-  64% of users are annual members.<br>
-  Members take shorter trips, with an average duration of 11.99 minutes (1 min to 4 hours).<br>
-  Casuals have a longer average duration: 19.93 minutes.<br>
-  <strong>Vehicle Type:</strong><br>
-  50.2% of trips are made using electric bikes.<br>
-  Classic bikes have the highest average trip duration, with 17.37 minutes.
-</p>
+<ul style="text-align: justify;">
+  <li><strong>Key Insights:</strong><br></li>
+  <ul>
+  <li><strong>Membership Type:</strong><br></li>
+    <ul>
+    <li>64% of users are annual members.<br></li>
+    <li>Members take shorter trips, with an average duration of 11.99 minutes.<br></li>
+    <li>Casuals have a longer average duration: 19.93 minutes.<br></li>
+    </ul>
+  <li><strong>Vehicle Type:</strong><br></li>
+    <ul>
+    <li>50.2% of trips are made using electric bikes.<br></li>
+    <li>Classic bikes have the highest average trip duration, with 17.37 minutes.</li>
+    </ul>
+  </ul>
+</ul>
 
-<h2 align="left">Page 2: Analysis of Trip Numbers</h2>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5.2+-+Analysis+of+Trip+Numbers" alt="Typing SVG" />
+</a>
 
-<p style="text-align: justify;">
-  <strong>Objective:</strong> Identify patterns in the number of trips throughout the week and year, segmented by user type.
-</p>
+<ul style="text-align: justify;">
+  <li><strong>Objective:</strong> Identify patterns in the number of trips throughout the week and year, segmented by user type.</li>
+</ul>
 
-<p style="text-align: justify;">
-  <strong>Data:</strong><br>
-  Total Trips: 5,712,804 trips with a duration between 1 minute and 4 hours.
-</p>
+<ul style="text-align: justify;">
+  <li><strong>Data:</strong><br></li>
+  <ul>
+  <li>Total Trips: 5,712,804 trips with a duration between 1 minute and 4 hours.</li>
+  </ul>
+</ul>
 
-<p style="text-align: justify;">
-  <strong>Insights:</strong><br>
-  <strong>Weekly Distribution:</strong><br>
-  Members make more trips than casuals every day of the week.<br>
-  Saturday is the day with the highest number of trips for casuals.<br>
-  Wednesday is the day with the highest number of trips for members.<br>
-  In total, Saturday is the day with the highest number of trips (897,053 trips), while Tuesday has the lowest (764,251 trips).<br>
-  <strong>Monthly Distribution:</strong><br>
-  The number of trips increases from January to September, reaching a peak in September (798,901 trips in total).<br>
-  After September, there is a significant drop in trips, with the lowest number recorded in January (139,884 trips).
-</p>
+<ul style="text-align: justify;">
+  <li><strong>Insights:</strong><br></li>
+  <ul>
+  <li><strong>Weekly Distribution:</strong><br></li>
+    <ul>
+    <li>Members make more trips than casuals every day of the week.<br></li>
+    <li>Saturday is the day with the highest number of trips for casuals.<br></li>
+    <li>Wednesday is the day with the highest number of trips for members.<br></li>
+    <li> In total, Saturday is the day with the highest number of trips (897,053 trips), while Tuesday has the lowest (764,251 trips).<br></li>
+    </ul>
+  <li><strong>Monthly Distribution:</strong><br></li>
+    <ul>
+    <li>The number of trips increases from January to September, reaching a peak in September (798,901 trips in total).<br></li>
+    <li>After September, there is a significant drop in trips, with the lowest number recorded in January (139,884 trips).</li>
+    </ul>
+  </ul>
+</ul>
 
-<h2 align="left">Page 3: Analysis of Average Trip Duration</h2>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5.3+-+Analysis+of+Average+Trip+Duration" alt="Typing SVG" />
+</a>
 
 <p style="text-align: justify;">
   <strong>Objective:</strong> Analyze the average trip duration by day of the week and month, segmented by user type.
