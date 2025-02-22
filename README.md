@@ -176,7 +176,7 @@
   <li>A <strong>Maximum_Minimum_Duration</strong> table was created to detect extreme values.</li>
   <li>Some trips had <strong>negative durations</strong> or lasted <strong>over 24 hours</strong>, indicating errors.</li>
   <li>The dataset was filtered to retain only trips lasting <strong>between 1 minute and 24 hours</strong>, resulting in the final dataset: <strong>2024_All_Months_Final</strong>.</li>
-  <li>The final dataset contains <strong>5,721,442 rows</strong>.</li>
+  <li>The final dataset contains <strong>5721442 rows</strong>.</li>
 </ul>
 
 <p style="text-align: justify;">
@@ -196,6 +196,8 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5.1+-+Summary+of+Trips+and+User+Types" alt="Typing SVG" />
 </a>
 
+![Summary_of_Trips_and_User_Types](https://github.com/user-attachments/assets/15583802-8fc1-4562-9ef6-4241c86bc8aa)
+
 <ul style="text-align: justify;">
   <li><strong>Objective:</strong> Analyze the behavior of casual passengers and annual members, and understand their vehicle preferences.</li>
 </ul>
@@ -203,8 +205,8 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 <ul style="text-align: justify;">
   <li><strong>Data:</strong><br></li>
   <ul>
-  <li>Total Trips: 5,721,442 trips with a duration between 1 minute and 24 hours.<br></li>
-  <li>Long Trips (4h-24h): 8,637 trips, which are rare events.<br></li>
+  <li>Total Trips: 5721442 trips with a duration between 1 minute and 24 hours.<br></li>
+  <li>Long Trips (4h-24h): 8637 trips, which are rare events.<br></li>
   <li>After this observation, a filter was applied to consider only trips with a duration of 1 minute to 4 hours.<br></li>
   <li>Average Trip Duration: 14.88 minutes.</li>
   </ul>
@@ -216,13 +218,13 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   <li><strong>Membership Type:</strong><br></li>
     <ul>
     <li>64% of users are annual members.<br></li>
-    <li>Members take shorter trips, with an average duration of 11.99 minutes.<br></li>
-    <li>Casuals have a longer average duration: 19.93 minutes.<br></li>
+    <li>Members take shorter trips, with an average duration of 11,99 minutes.<br></li>
+    <li>Casuals have a longer average duration: 19,93 minutes.<br></li>
     </ul>
   <li><strong>Vehicle Type:</strong><br></li>
     <ul>
-    <li>50.2% of trips are made using electric bikes.<br></li>
-    <li>Classic bikes have the highest average trip duration, with 17.37 minutes.</li>
+    <li>50,2% of trips are made using electric bikes.<br></li>
+    <li>Classic bikes have the highest average trip duration, with 17,37 minutes.</li>
     </ul>
   </ul>
 </ul>
@@ -231,6 +233,8 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5.2+-+Analysis+of+Trip+Numbers" alt="Typing SVG" />
 </a>
 
+![Analysis_of_Trip_Numbers](https://github.com/user-attachments/assets/3492dc99-164a-4f78-81be-e5ffcc13be84)
+
 <ul style="text-align: justify;">
   <li><strong>Objective:</strong> Identify patterns in the number of trips throughout the week and year, segmented by user type.</li>
 </ul>
@@ -238,7 +242,7 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 <ul style="text-align: justify;">
   <li><strong>Data:</strong><br></li>
   <ul>
-  <li>Total Trips: 5,712,804 trips with a duration between 1 minute and 4 hours.</li>
+  <li>Total Trips: 5712804 trips with a duration between 1 minute and 4 hours.</li>
   </ul>
 </ul>
 
@@ -250,12 +254,12 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
     <li>Members make more trips than casuals every day of the week.<br></li>
     <li>Saturday is the day with the highest number of trips for casuals.<br></li>
     <li>Wednesday is the day with the highest number of trips for members.<br></li>
-    <li> In total, Saturday is the day with the highest number of trips (897,053 trips), while Tuesday has the lowest (764,251 trips).<br></li>
+    <li> In total, Saturday is the day with the highest number of trips (897053 trips), while Tuesday has the lowest (764251 trips).<br></li>
     </ul>
   <li><strong>Monthly Distribution:</strong><br></li>
     <ul>
-    <li>The number of trips increases from January to September, reaching a peak in September (798,901 trips in total).<br></li>
-    <li>After September, there is a significant drop in trips, with the lowest number recorded in January (139,884 trips).</li>
+    <li>The number of trips increases from January to September, reaching a peak in September (798901 trips in total).<br></li>
+    <li>After September, there is a significant drop in trips, with the lowest number recorded in January (139884 trips).</li>
     </ul>
   </ul>
 </ul>
@@ -264,28 +268,38 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=5.3+-+Analysis+of+Average+Trip+Duration" alt="Typing SVG" />
 </a>
 
-<p style="text-align: justify;">
-  <strong>Objective:</strong> Analyze the average trip duration by day of the week and month, segmented by user type.
-</p>
+![Analysis_of_Average_Trip_Duration](https://github.com/user-attachments/assets/db600c28-3bf4-4b99-81d8-7550b8bcf7e3)
 
-<p style="text-align: justify;">
-  <strong>Data:</strong><br>
-  Average Trip Duration: 14.88 minutes (considering trips from 1 minute to 4 hours).
-</p>
+<ul style="text-align: justify;">
+  <li><strong>Objective:</strong> Analyze the average trip duration by day of the week and month, segmented by user type.</li>
+</ul>
 
-<p style="text-align: justify;">
-  <strong>Insights:</strong><br>
-  <strong>Weekly Distribution:</strong><br>
-  Casuals take longer trips, with peaks on the weekend.<br>
-  Members have more stable trip durations, with a slight increase on weekends.<br>
-  Highest average duration: Sunday (17.86 minutes).<br>
-  Lowest average duration: Tuesday (13.06 minutes).<br>
-  <strong>Monthly Distribution:</strong><br>
-  Casuals show strong variation, with trip duration peaking in May. From April to August, they travel with an average of over 20 minutes.<br>
-  Members maintain a stable duration between 10 and 13 minutes.<br>
-  Month with highest average duration: July.<br>
-  Month with lowest average duration: January.
-</p>
+<ul style="text-align: justify;">
+  <li><strong>Data:</strong><br></li>
+  <ul>
+  <li>Average Trip Duration: 14,88 minutes (considering trips from 1 minute to 4 hours).</li>
+  </ul>
+</ul>
+
+<ul style="text-align: justify;">
+  <li><strong>Insights:</strong><br></li>
+  <ul>
+  <li><strong>Weekly Distribution:</strong><br></li>
+    <ul>
+    <li>Casuals take longer trips, with peaks on the weekend.<br></li>
+    <li>Members have more stable trip durations, with a slight increase on weekends.<br></li>
+    <li>Highest average duration: Sunday (17,86 minutes).<br></li>
+    <li>Lowest average duration: Tuesday (13,06 minutes).<br></li>
+    </ul>
+  <li><strong>Monthly Distribution:</strong><br></li>
+    <ul>
+    <li>Casuals show strong variation, with trip duration peaking in May. From April to August, they travel with an average of over 20 minutes.<br></li>
+    <li>Members maintain a stable duration between 10 and 13 minutes.<br></li>
+    <li>Month with highest average duration: July.<br></li>
+    <li>Month with lowest average duration: January.</li>
+    </ul>
+  </ul>
+</ul>
 
 <h2 align="left">
 </h2>
