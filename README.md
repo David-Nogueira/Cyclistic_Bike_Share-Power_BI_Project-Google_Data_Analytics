@@ -135,7 +135,7 @@
   <li>The <strong>CSV files</strong> containing the <strong>monthly trip data for 2024</strong> were imported into Power BI.</li>
   <li>The <strong>end_station_id</strong> column was incorrectly recognized as a <strong>number</strong> instead of <strong>text</strong>, requiring adjustments.</li>
   <li>Tables were renamed for readability, such as <strong>2024_01_January, 2024_02_February</strong>, etc.</li>
-  <li>All <strong>12 tables</strong> were merged into a single dataset: <strong>2024_All_Months_No_Clean</strong>, totaling <strong>5,860,538 rows</strong>.</li>
+  <li>All <strong>12 tables</strong> were merged into a single dataset: <strong>2024_All_Months_No_Clean</strong>, totaling <strong>5860538 rows</strong>.</li>
 </ul>
 
 <a href="https://git.io/typing-svg">
