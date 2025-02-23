@@ -315,6 +315,55 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7+-+Act" alt="Typing SVG" />
 </a>
 
+<p style="text-align: justify;">
+  After analyzing the data and identifying key user behavior patterns, it is essential to define strategies to optimize service usage and increase the conversion of casual riders into annual members.
+</p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.1+-+Introduction+of+Monthly+and+Seasonal+Plans" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>Currently, the company offers daily and annual passes, but data shows that casual riders use the service more frequently during warmer months (April to September).</li>
+  <li>A highly effective strategy would be to introduce a monthly or seasonal plan, encouraging these users to subscribe more consistently by offering progressive discounts that make the annual membership more attractive.</li>
+</ul>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.2+-+Targeted+Engagement+Strategies" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>Launch marketing campaigns highlighting the benefits of the annual membership, such as cost-effectiveness and access to exclusive promotions.</li>
+  <li>Offer a one-month free trial during winter, when fewer trips are made, to encourage casual riders to experience the benefits of membership.</li>
+</ul>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.3+-+Incentives+and+Loyalty+Programs" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>Implement a loyalty points system, where each ride accumulates points that can be redeemed for discounts on an annual subscription.</li>
+  <li>Introduce a user ranking system, rewarding frequent riders with benefits such as free rides or exclusive perks.</li>
+</ul>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.3+-+Incentives+and+Loyalty+Programs" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>Use data from the most popular stations among casual riders to install billboards and posters, promoting annual memberships.</li>
+  <li>Launch geo-targeted digital marketing campaigns to ensure advertisements reach users who frequently use the service in these locations.</li>
+</ul>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.5+-+Incentives+and+Loyalty+Programs" alt="Typing SVG" />
+</a>
+
+<ul style="text-align: justify;">
+  <li>Implement a loyalty points system, where each ride accumulates points that can be redeemed for discounts on an annual subscription.</li>
+  <li>Introduce a user ranking system, rewarding frequent riders with benefits such as free rides or exclusive perks.</li>
+</ul>
+
 <h2 align="left">
 </h2>
 
