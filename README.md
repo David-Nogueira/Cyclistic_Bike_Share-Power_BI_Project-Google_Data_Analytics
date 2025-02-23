@@ -347,7 +347,7 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 </ul>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.3+-+Incentives+and+Loyalty+Programs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.4+-+Location-Based+Marketing+Campaigns" alt="Typing SVG" />
 </a>
 
 <ul style="text-align: justify;">
@@ -356,12 +356,12 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 </ul>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.5+-+Incentives+and+Loyalty+Programs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=7.5+-+Strategies+to+Maximize+Bike+Usage" alt="Typing SVG" />
 </a>
 
 <ul style="text-align: justify;">
-  <li>Implement a loyalty points system, where each ride accumulates points that can be redeemed for discounts on an annual subscription.</li>
-  <li>Introduce a user ranking system, rewarding frequent riders with benefits such as free rides or exclusive perks.</li>
+  <li>Since classic bikes have the highest average trip duration (17.37 minutes), offering exclusive benefits for using them could help balance fleet utilization.</li>
+  <li>Adjust bike distribution based on usage patterns throughout the week, ensuring sufficient availability during peak periods.</li>
 </ul>
 
 <h2 align="left">
