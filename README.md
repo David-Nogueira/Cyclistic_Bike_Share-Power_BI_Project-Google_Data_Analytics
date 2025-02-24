@@ -314,7 +314,7 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 </p>
 
 <ul style="text-align: justify;">
-  <li><a href="https://github.com/David-Nogueira/Cyclistic-Bike-Share-Case-Study/raw/main/Cyclistic%20Bike%20Share%20-%20Google%20Data%20Analytics%20Capstone%20Project.pdf" download>Click here to download the PDF report.</a></li>
+  <li><a href="https://github.com/David-Nogueira/Cyclistic-Bike-Share-Case-Study/raw/main/Cyclistic%20Bike%20Share%20-%20Google%20Data%20Analytics%20Capstone%20Project.pdf" download>Click here to download the PDF report</a></li>
 </ul>
 
 <p style="text-align: justify;">
