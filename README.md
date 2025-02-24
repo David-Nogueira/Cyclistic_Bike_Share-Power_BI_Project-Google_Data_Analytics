@@ -308,6 +308,20 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=6+-+Share" alt="Typing SVG" />
 </a>
 
+<p style="text-align: justify;">
+  The findings were shared and communicated with the relevant stakeholders.<br>
+  The sharing phase of this project was completed using Power BI for visualizations and a detailed PDF report containing all the analyses conducted.
+</p>
+
+<ul style="text-align: justify;">
+  <li>Click here to download the Power BI file.</li>
+  <li>Click here to download the PDF report.</li>
+</ul>
+
+<p style="text-align: justify;">
+  This ensures that the key dashboards and insights are accessible for review and decision-making.
+</p>
+
 <h2 align="left">
 </h2>
 
