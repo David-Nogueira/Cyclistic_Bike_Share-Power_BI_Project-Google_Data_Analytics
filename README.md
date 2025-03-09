@@ -30,7 +30,7 @@
 </ul>
 
 <p align="justify">
-  The goal of this project is to <strong>analyze user behavior</strong> and provide insights to <strong>convert more casual riders into annual members</strong>, maximizing the company’s revenue.
+  The goal of this project is to <strong>analyse user behaviour</strong> and provide insights to <strong>convert more casual riders into annual members</strong>, maximizing the company’s revenue.
 </p>
 
 <a href="https://git.io/typing-svg">
@@ -41,7 +41,7 @@
   <li><strong>Ask</strong> – Define the business problem</li>
   <li><strong>Prepare</strong> – Collect and organize data</li>
   <li><strong>Process</strong> – Clean and transform data</li>
-  <li><strong>Analyze</strong> – Explore patterns and trends</li>
+  <li><strong>Analyse</strong> – Explore patterns and trends</li>
   <li><strong>Share</strong> – Create visualizations and reports</li>
   <li><strong>Act</strong> – Present strategic recommendations</li>
 </ul>
@@ -55,7 +55,7 @@
 
 <p align="justify">
   This phase involves <strong>defining the issue to be solved</strong>, identifying stakeholders, and understanding their expectations for the project. 
-  The goal is to analyze how Cyclistic users behave and provide insights that will help shape marketing strategies aimed at increasing membership conversions.
+  The goal is to analyse how Cyclistic users behave and provide insights that will help shape marketing strategies aimed at increasing membership conversions.
 </p>
 
 <a href="https://git.io/typing-svg">
@@ -78,7 +78,7 @@
 
 <ul align="justify">
   <li><strong>Lily Moreno</strong>: Director of Marketing, responsible for developing campaigns and initiatives to promote the bike-share program.</li>
-  <li><strong>Marketing Analytics Team</strong>: Collects, analyzes, and reports data to guide Cyclistic’s marketing strategies.</li>
+  <li><strong>Marketing Analytics Team</strong>: Collects, analyses, and reports data to guide Cyclistic’s marketing strategies.</li>
   <li><strong>Executive Team</strong>: Evaluates and approves recommendations based on data-driven insights.</li>
 </ul>
 
@@ -135,7 +135,7 @@
   <li>The <strong>CSV files</strong> containing the <strong>monthly trip data for 2024</strong> were imported into Power BI.</li>
   <li>The <strong>end_station_id</strong> column was incorrectly recognized as a <strong>number</strong> instead of <strong>text</strong>, requiring adjustments.</li>
   <li>Tables were renamed for readability, such as <strong>2024_01_January, 2024_02_February</strong>, etc.</li>
-  <li>All <strong>12 tables</strong> were merged into a single dataset: <strong>2024_All_Months_No_Clean</strong>, totaling <strong>5860538 rows</strong>.</li>
+  <li>All <strong>12 tables</strong> were merged into a single dataset: <strong>2024_All_Months_No_Clean</strong>, totalling <strong>5860538 rows</strong>.</li>
 </ul>
 
 <a href="https://git.io/typing-svg">
@@ -199,7 +199,7 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 ![Summary_of_Trips_and_User_Types](https://github.com/user-attachments/assets/15583802-8fc1-4562-9ef6-4241c86bc8aa)
 
 <ul align="justify">
-  <li><strong>Objective:</strong> Analyze the behavior of casual passengers and annual members, and understand their vehicle preferences.</li>
+  <li><strong>Objective:</strong> Analyse the behaviour of casual passengers and annual members and understand their vehicle preferences.</li>
 </ul>
 
 <ul align="justify">
@@ -218,13 +218,13 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
   <li><strong>Membership Type:</strong><br></li>
     <ul>
     <li>64% of users are annual members.<br></li>
-    <li>Members take shorter trips, with an average duration of 11,99 minutes.<br></li>
-    <li>Casuals have a longer average duration: 19,93 minutes.<br></li>
+    <li>Members take shorter trips, with an average duration of 11.99 minutes.<br></li>
+    <li>Casuals have a longer average duration: 19.93 minutes.<br></li>
     </ul>
   <li><strong>Vehicle Type:</strong><br></li>
     <ul>
-    <li>50,2% of trips are made using electric bikes.<br></li>
-    <li>Classic bikes have the highest average trip duration, with 17,37 minutes.</li>
+    <li>50.2% of trips are made using electric bikes.<br></li>
+    <li>Classic bikes have the highest average trip duration, with 17.37 minutes.</li>
     </ul>
   </ul>
 </ul>
@@ -271,13 +271,13 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 ![Analysis_of_Average_Trip_Duration](https://github.com/user-attachments/assets/db600c28-3bf4-4b99-81d8-7550b8bcf7e3)
 
 <ul align="justify">
-  <li><strong>Objective:</strong> Analyze the average trip duration by day of the week and month, segmented by user type.</li>
+  <li><strong>Objective:</strong> Analyse the average trip duration by day of the week and month, segmented by user type.</li>
 </ul>
 
 <ul align="justify">
   <li><strong>Data:</strong><br></li>
   <ul>
-  <li>Average Trip Duration: 14,88 minutes (considering trips from 1 minute to 4 hours).</li>
+  <li>Average Trip Duration: 14.88 minutes (considering trips from 1 minute to 4 hours).</li>
   </ul>
 </ul>
 
@@ -288,8 +288,8 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
     <ul>
     <li>Casuals take longer trips, with peaks on the weekend.<br></li>
     <li>Members have more stable trip durations, with a slight increase on weekends.<br></li>
-    <li>Highest average duration: Sunday (17,86 minutes).<br></li>
-    <li>Lowest average duration: Tuesday (13,06 minutes).<br></li>
+    <li>Highest average duration: Sunday (17.86 minutes).<br></li>
+    <li>Lowest average duration: Tuesday (13.06 minutes).<br></li>
     </ul>
   <li><strong>Monthly Distribution:</strong><br></li>
     <ul>
