@@ -329,7 +329,7 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 </a>
 
 <p align="justify">
-  After analyzing the data and identifying key user behavior patterns, it is essential to define strategies to optimize service usage and increase the conversion of casual riders into annual members.
+  After analysing the data and identifying key user behaviour patterns, it is essential to define strategies to optimize service usage and increase the conversion of casual riders into annual members.
 </p>
 
 <a href="https://git.io/typing-svg">
@@ -373,7 +373,7 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 </a>
 
 <ul align="justify">
-  <li>Since classic bikes have the highest average trip duration (17.37 minutes), offering exclusive benefits for using them could help balance fleet utilization.</li>
+  <li>Since classic bikes have the highest average trip duration (17,37 minutes), offering exclusive benefits for using them could help balance fleet utilization.</li>
   <li>Adjust bike distribution based on usage patterns throughout the week, ensuring sufficient availability during peak periods.</li>
 </ul>
 
@@ -385,7 +385,7 @@ At this stage, the data is <strong>cleaned, structured, and ready</strong> for f
 </a>
 
 <ul align="justify">
-  <li>The analysis of Cyclistic's data revealed clear patterns in user behavior: members use bikes consistently throughout the week, while casual riders concentrate their usage on weekends and warmer months. The preference for electric bikes and the differences in trip duration between the two groups highlight the need for targeted strategies.</li>
+  <li>The analysis of Cyclistic's data revealed clear patterns in user behaviour: members use bikes consistently throughout the week, while casual riders concentrate their usage on weekends and warmer months. The preference for electric bikes and the differences in trip duration between the two groups highlight the need for targeted strategies.</li>
   <li>To maximize the conversion of casual riders into members, we recommend seasonal promotional campaigns, weekend-specific incentives, and improvements to the experience of classic bikes. These initiatives can drive membership growth and optimize company revenue.</li>
 </ul>
 
