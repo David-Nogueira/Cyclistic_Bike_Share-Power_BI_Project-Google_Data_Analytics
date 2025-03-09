@@ -13,7 +13,8 @@
 </a>
 
 <p align="justify">
-  This case study is part of the <strong>final project for the Google Data Analytics Professional Certificate</strong>. Unlike the course, which uses tools like R and Tableau, <strong>I used exclusively Power BI</strong> for the entire analysis, from data preparation to insight visualization.
+  This case study is part of the <strong>final project for the Google Data Analytics Professional Certificate</strong>. Unlike the course, which uses tools like R and Tableau, <strong>I used exclusively Power BI</strong> for the entire analysis, from data preparation to insight visualization.<br>
+  Although the entire analysis, including the PDF, GitHub repository, and Power BI file, is written in English, the numerical formatting in Power BI follows Portuguese conventions.
 </p>
 
 <a href="https://git.io/typing-svg">
